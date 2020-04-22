@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sqllitewithrecylcerview</string>
+    <string name="create_database">Create Database</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_rollno">Enter rollno</string>
+    <string name="add_values">ADD Values</string>
+    <string name="display_data">Display Data</string>
+</resources>
